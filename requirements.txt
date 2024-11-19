@@ -2,6 +2,6 @@ streamlit
 pandas
 seaborn 
 plotly.express
-matplotlib.pyplot
+matplotlib
 numpy 
 streamlit_option_menu
