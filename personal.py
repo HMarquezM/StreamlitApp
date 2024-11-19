@@ -8,8 +8,8 @@ from streamlit_option_menu import option_menu
 
 
 
-dfp = pd.read_csv("/Users/hectormarquez/Desktop/EvidenciasPython/Player.csv")
-dfa = pd.read_csv("/Users/hectormarquez/Desktop/EvidenciasPython/Player_Attributes.csv")
+dfp = pd.read_csv("./Player.csv")
+dfa = pd.read_csv("./Player_Attributes.csv")
 
 
 
